@@ -1,5 +1,4 @@
 # Dataset_XHAd
-# TCM Clinical Dataset
 
 This dataset contains real clinical data from a traditional Chinese medicine (TCM) hospital, meticulously anonymized to ensure no privacy or ethical issues. The dataset includes information on diseases, Chinese medicines, and syndromes, which are crucial for studying the clinical efficacy of TCM, the characteristics of syndromes, and the use of Chinese medicines.
 
